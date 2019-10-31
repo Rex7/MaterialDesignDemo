@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MaterialDesignDemo</string>
+    <string name="name">Regis Charles</string>
+    <string name="location">Mumbai ,India</string>
+    <string name="photos">Photos</string>
+    <string name="NoOfPhotos">345</string>
+    <string name="Following">Following</string>
+    <string name="followingCount">100</string>
+    <string name="Followers">Follower</string>
+    <string name="FollowersCount">1756</string>
+</resources>
